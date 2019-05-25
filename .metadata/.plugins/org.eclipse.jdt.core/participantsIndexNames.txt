@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Anjaani\Desktop\practicle_10\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3831618974.index
+\praticle_10\src
+C:\Users\Anjaani\Desktop\practicle_10\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3469426699.index
+\praticle_10\src

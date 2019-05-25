@@ -1,0 +1,10 @@
+$(document).on("click","#btnlogin",function()
+{
+	
+	var result = isValidFormLogin();
+	if(result=="true")
+		{ $("#fromlogin").submit();  }
+	else
+		{  $("#divStvMsglogin").html(result);  }
+	
+});

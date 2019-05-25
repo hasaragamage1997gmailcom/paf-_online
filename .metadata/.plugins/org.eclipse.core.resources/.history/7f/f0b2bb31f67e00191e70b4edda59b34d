@@ -1,0 +1,22 @@
+$(document).on("click","#btnlogin",function()
+{
+	
+	var result = isValidFormLogin();
+	if(result=="true")
+		{ $("#fromlogin").submit();  }
+	else
+		{  $("#divStvMsglogin").html(result);  }
+	
+});
+
+
+function isValidFormLogin()
+{
+	if($.trim($("#txtUserName").val())=="")
+	{ return "Enter UserName";  }
+	
+	if($.trim($("#txtPassword").val())=="")
+	{ return "Enter Password";  }
+	
+	return true;
+}

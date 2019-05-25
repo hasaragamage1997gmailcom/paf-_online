@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Anjaani\Desktop\practicle_10\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1915095732.index
+3811574879.index
+1979023119.index
+3831618974.index
+2055803562.index
+3867911518.index
